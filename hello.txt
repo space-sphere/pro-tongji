@@ -1,5 +1,5 @@
 hello git minu
-hello git
+hello git main
 hello git
 hello git
 hello git
