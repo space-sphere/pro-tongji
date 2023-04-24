@@ -1,6 +1,6 @@
 hello git minu
 hello git main
-hello git
+hello git minu
 hello git
 hello git
 hello git
